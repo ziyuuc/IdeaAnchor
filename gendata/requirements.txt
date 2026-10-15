@@ -1,0 +1,7 @@
+openai
+pyyaml
+requests
+
+# Optional, only for the steps that use them:
+# mineru[core]   preprocess/pdf2md.py
+# pymupdf        preprocess/nature_json2md.py

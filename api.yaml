@@ -1,0 +1,11 @@
+# OpenAI-compatible API settings. Empty api_key and base_url fall back to OPENAI_API_KEY and OPENAI_BASE_URL.
+
+gendata:   # gendata/: prior-work extraction, proposal and rubric generation
+  base_url: ""
+  api_key: ""
+  model: ""
+
+eval:      # eval/: rubric grading
+  base_url: ""
+  api_key: ""
+  model: ""
